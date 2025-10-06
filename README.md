@@ -35,6 +35,7 @@ With each successful round, the sequence gets longer and faster, testing your me
 
 ## 📂 Project Structure
 
+```plaintext
 Simon-Says-Game/
 ├── index.html        # Main HTML file
 ├── style.css         # Styling for game layout and effects
