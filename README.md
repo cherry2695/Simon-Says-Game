@@ -35,10 +35,10 @@ With each successful round, the sequence gets longer and faster, testing your me
 
 ## 📂 Project Structure
 
-├── index.html # Main HTML file
-├── style.css # Styling for game layout and effects
-├── script.js # Game logic and event handling
-└── assets/ # (Optional) Folder for sounds or images
+Simon-Says-Game/
+├── index.html        # Main HTML file
+├── style.css         # Styling for game layout and effects
+├── script.js         # Game logic and event handling
 
 ---
 
